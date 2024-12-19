@@ -1,0 +1,44 @@
+.container-fluid{
+    background-color: #050C9C;
+}
+.carousel-image{
+    height: 150px;
+    width: 150px;
+    border-radius:50% ;
+    text-align: center;
+}
+#reviews{
+    text-align: center;
+    font-family: open-sans;
+    background-color: #3572EF;
+}
+.card{
+    background-color: #3572EF;
+    color: #A7E6FF;
+}
+.card-img-top{
+    background-color: white;
+}
+.team{
+    background-color: #3ABEF9;
+}
+h3{
+    color: white;
+}
+em{
+    color: white;
+}
+h1{
+    color: white;
+}
+.footer{
+    color: white;
+    background-color: #3ABEF9;
+}
+.xero{
+    background-image: url(../Images/skyofstars.gif);
+}
+#carouselExample{
+    background-color:#050C9C
+    
+}
